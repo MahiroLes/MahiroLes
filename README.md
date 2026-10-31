@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahiro
 
-<!--
-**MahiroLes/MahiroLes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & Robotics Engineer | 6 years experience
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Embedded & IoT: STM32, Raspberry Pi, Jetson, ESP32
+- Software: Full-stack (web/mobile), Backend/Frontend
+- DevOps/MLOps: CI/CD, Docker, Kubernetes, Cloud deployment
+- Robotics: Hardware-software integration, competitions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Experience
+- Built projects combining IoT, robotics, and software
+- Participated in robotics/software competitions
+- End-to-end development: from embedded systems to cloud deployment
+
+## 📫 Contact
+- Email MahiroLes@gmail.com
+
+But after all i have nothing interesting to show you here as public repository
